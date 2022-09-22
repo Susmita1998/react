@@ -1,0 +1,12 @@
+.tab-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.tab1, .tab2, .tab3{
+    background-color: rgb(216, 160, 160);
+    width: 300px;
+    text-align: center;
+    cursor: pointer;
+}
